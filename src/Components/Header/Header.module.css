@@ -1,0 +1,34 @@
+.header {
+    width: 100%;
+    height: 5vh;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    
+}
+
+.logoContainer{
+
+}
+
+.logo{
+
+}
+
+.navBar{
+
+}
+
+.navList{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    gap: 50px;
+}
+
+.navLink{
+
+}
