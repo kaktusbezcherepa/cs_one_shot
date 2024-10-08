@@ -3,3 +3,18 @@
   padding: 0;
   box-sizing: border-box;
 }
+
+@font-face {
+  font-family: "Play-Bold";
+  src: url("./fonts/Play-Bold.ttf");
+}
+
+@font-face {
+  font-family: "Play-Regular";
+  src: url("./fonts/Play-Regular.ttf");
+}
+
+/* @font-face {
+  font-family: ;
+  src: url("");
+} */
